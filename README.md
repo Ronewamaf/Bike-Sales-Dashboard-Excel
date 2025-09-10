@@ -2,19 +2,19 @@ Bike-Sales-Dashboard-Excel
 
 I developed an interactive dashboard to analyze customer demographics and factors influencing bike purchases. This process involved several stages, including data preprocessing, data cleaning, creating pivot tables, and building dynamic data visualizations to uncover insights from the Bike Buyers 2022 dataset.
 
-🚴‍♂️ Bike-Buyers-Data-Analysis
+Bike-Buyers-Data-Analysis
 
 Interactive Dashboard creation using MS Excel
 
-📌 Project Objective
+Project Objective
 
 The goal of this project is to analyze the demographic and lifestyle factors that influence whether a customer purchases a bike. By understanding customer behavior, the business can identify its key target audience and improve marketing strategies to boost bike sales.
 
-📂 Dataset Used
+Dataset Used
 
 <a href="https://github.com/Ronewamaf/Bike-Sales-Dashboard-Excel/blob/main/Excel%20Project%20Dataset.xlsx">Dataset</a>
 
-📊 Key Questions (KPIs)
+Key Questions (KPIs)
 
 What is the overall distribution of customers who purchased vs. didn’t purchase bikes?
 
@@ -32,7 +32,7 @@ Which education and occupation groups are more likely to purchase bikes?
 
 Regional contribution: Which region has the highest bike buyers?
 
-🔧 Process
+Process
 
 Data Preprocessing → Verified raw data for missing values, duplicates, and anomalies.
 
@@ -44,11 +44,9 @@ Data Visualization → Built charts to visualize gender, income, age, and commut
 
 Dashboard Creation → <a href="https://github.com/Ronewamaf/Bike-Sales-Dashboard-Excel/blob/main/Bike%20Sales%20Dashboard%20Screenshot.png">View Dashboard</a>
 
-📈 Dashboard
-
+Dashboard
 <img width="791" height="492" alt="Bike Sales Dashboard Screenshot" src="https://github.com/user-attachments/assets/d7cb1173-99d1-4703-92dc-1469ed68d982" />
-
-🔍 Project Insights
+Project Insights
 
 Gender: Males are slightly more likely to purchase bikes compared to females.
 
@@ -64,6 +62,6 @@ Region: The Pacific and Europe regions contribute the highest number of bike buy
 
 Occupation: Professionals and skilled manual workers are the top buyer groups.
 
-✅ Final Conclusion
-To increase bike sales, businesses should focus on middle-aged professionals and married individuals with higher income levels, particularly in the Pacific and Europe regions. Marketing campaigns should emphasize the convenience of bikes for short commutes (0–5).
-To increase bike sales, businesses should focus on middle-aged professionals and married individuals with higher income levels, particularly in the Pacific and Europe regions. Marketing campaigns should emphasize the convenience of bikes for short commutes (0–5 miles).es (0–5 miles) and promote lifestyle benefits.
+Final Conclusion
+
+To increase bike sales, businesses should focus on middle-aged professionals and married individuals with higher income levels, particularly in the Pacific and Europe regions. Marketing campaigns should emphasize the convenience of bikes for short commutes (0–5 miles).
