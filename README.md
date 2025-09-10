@@ -11,8 +11,7 @@ The goal of this project is to analyze the demographic and lifestyle factors tha
 
 📂 Dataset Used
 
-Dataset: Bike Buyers 2022 https://github.com/Ronewamaf/Bike-Sales-Dashboard-Excel/blob/main/Excel%20Project%20Dataset.xlsx
-The dataset includes customer details such as gender, marital status, income, education, occupation, home ownership, number of cars, commute distance, region, age, and bike purchase decision.
+Dataset: https://github.com/Ronewamaf/Bike-Sales-Dashboard-Excel/blob/main/Excel%20Project%20Dataset.xlsx
 
 📊 Key Questions (KPIs)
 
