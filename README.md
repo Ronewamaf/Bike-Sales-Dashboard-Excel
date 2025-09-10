@@ -1,4 +1,5 @@
-# Bike-Sales-Dashboard-Excel
+Bike-Sales-Dashboard-Excel
+
 I developed an interactive dashboard to analyze customer demographics and factors influencing bike purchases. This process involved several stages, including data preprocessing, data cleaning, creating pivot tables, and building dynamic data visualizations to uncover insights from the Bike Buyers 2022 dataset.
 
 🚴‍♂️ Bike-Buyers-Data-Analysis
@@ -11,7 +12,7 @@ The goal of this project is to analyze the demographic and lifestyle factors tha
 
 📂 Dataset Used
 
-Dataset: https://github.com/Ronewamaf/Bike-Sales-Dashboard-Excel/blob/main/Excel%20Project%20Dataset.xlsx
+<a href="https://github.com/Ronewamaf/Bike-Sales-Dashboard-Excel/blob/main/Excel%20Project%20Dataset.xlsx">Dataset</a>
 
 📊 Key Questions (KPIs)
 
@@ -69,6 +70,4 @@ Occupation: Professionals and skilled manual workers are the top buyer groups.
 
 ✅ Final Conclusion
 
-To increase bike sales, businesses should focus on middle-aged professionals and married individuals with higher income levels, particularly in the Pacific and Europe regions. Marketing campaigns should emphasize the convenience of bikes for short commutes (0–5 miles) and promote lifestyle benefits. Additionally, offering personalized promotions and financing options could further attract potential buyers.
-
-
+To increase bike sales, businesses should focus on middle-aged professionals and married individuals with higher income levels, particularly in the Pacific and Europe regions. Marketing campaigns should emphasize the convenience of bikes for short commutes (0–5 miles) and promote lifestyle benefits.
